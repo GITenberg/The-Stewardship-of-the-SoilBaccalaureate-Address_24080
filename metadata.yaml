@@ -1,0 +1,27 @@
+_repo: The-Stewardship-of-the-SoilBaccalaureate-Address_24080
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Worst, John H. (John Henry)
+    birthdate: 1850
+    deathdate: 1945
+    gutenberg_agent_id: '26237'
+    url: http://www.gutenberg.org/2009/agents/26237
+description: ''
+gutenberg_issued: '2007-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24080'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'S'
+- !lcsh 'Agriculture'
+title: "The Stewardship of the Soil\r\nBaccalaureate Address by John Henry Worst,\
+  \ President, North Dakota Agricultural College"
+url: http://www.gutenberg.org/ebooks/24080
